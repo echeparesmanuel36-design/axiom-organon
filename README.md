@@ -22,7 +22,7 @@ The engine scans the target directory and automatically classifies files into th
 Ensure you have the Rust toolchain installed, then clone and build:
 
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/axiom-organon.git](https://github.com/YOUR_GITHUB_USERNAME/axiom-organon.git)
+git clone [https://github.com/echeparesmanuel36-design/axiom-organon.git](https://github.com/echeparesmanuel36-design/axiom-organon.git)
 ```
 ```bash
 cd axiom-organon
