@@ -37,7 +37,7 @@ cargo build --release
 ```bash
 ./axiom-organon
 ```
-### ⚡ The Philosophy
+## ⚡ The Philosophy
 
 ​Mainstream software is broken. We don't need cloud infrastructure, complex telemetry, or heavy UI frameworks just to sort files on a local disk. Axiom Organon is built on the core Axiom Systems principles: raw execution, memory safety, and absolute respect for CPU cycles.
 
