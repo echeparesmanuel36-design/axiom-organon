@@ -17,9 +17,23 @@ The engine scans the target directory and automatically classifies files into th
 | **Installers** | `.exe`, `.msi`, `.deb`, `.dmg` | `Installers/` |
 
 ## 🛠️ Quick Start
+
 ### 1. Build from Source
 Ensure you have the Rust toolchain installed, then clone and build:
+
 ```bash
 git clone [https://github.com/YOUR_GITHUB_USERNAME/axiom-organon.git](https://github.com/YOUR_GITHUB_USERNAME/axiom-organon.git)
+```
+```bash
 cd axiom-organon
+```
+```bash
 cargo build --release
+```
+
+### 2. Execution
+
+​Move the compiled binary to any cluttered directory (like your Downloads folder) and run it:
+```bash
+./axiom-organon
+```
